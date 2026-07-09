@@ -1,0 +1,6 @@
+{
+  "name": "Annotation Activity Console",
+  "description": "An internal dashboard for annotation task tracking, featuring real-time state sync, safe streamed AI summaries, and robust data normalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
